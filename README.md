@@ -16,7 +16,7 @@
 <img align="right" alt="Nerd Guy" width="200" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
 
 <br/>  
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=MrStarkEG&label=Profile%20views&color=0e75b6&style=flat" alt="MrStarkEG" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=MrStarkEG&label=Profile%20views&color=0e75b6&style=flat" alt="MrdurdenEG" /> </p>
 
 <p align="left"> <a href="https://twitter.com/MrdurdenEG" target="blank"><img src="https://img.shields.io/twitter/follow/MrStarkEG1?logo=twitter&style=for-the-badge" alt="MrDurdenEG" /></a> </p>
 
