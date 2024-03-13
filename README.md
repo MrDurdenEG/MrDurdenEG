@@ -11,7 +11,7 @@
 
 <br/>  
 
-<p align="right"><img align="right" alt="SW" width="165" src="https://media1.tenor.com/m/YHUOSFkcNCcAAAAC/system-engineer-geek.gif"></p>
+<p align="right" style="margin-top: -20px;"><img align="right" alt="SW" width="165" src="https://media1.tenor.com/m/YHUOSFkcNCcAAAAC/system-engineer-geek.gif"></p>
 
 <p align="left"> <a href="https://twitter.com/MrdurdenEG" target="blank"><img src="https://img.shields.io/twitter/follow/MrdurdenEG?logo=twitter&style=for-the-badge" alt="MrDurdenEG" /></a> </p>
 
@@ -63,4 +63,3 @@
 <br/>  
 
 <br />
-
