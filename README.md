@@ -13,7 +13,7 @@
 - You can reach me on Telegram : <a href="https://t.me/MrdurdenEG" target="blank">MrdurdenEG</a>
 
 
-<img align="right" alt="Nerd Guy" width="150" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
+<img align="right" alt="SW" width="175" src="https://tenor.com/view/system-engineer-geek-gif-18496713">
 
 <br/>  
 
