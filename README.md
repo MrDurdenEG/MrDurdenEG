@@ -5,13 +5,20 @@
 <div align="center">A passionate embedded systems SW engineer from EGYPT🥰</div>  
   
 
--  I’m currently learning : C programing and interfacing  
+-  I’m currently learning : **C programming and interfacing**  
   
 
-- A HUGE fan of Embedded systems  
-  
+- A HUGE fan of **Embedded systems**  
+
+- You can reach me on Telegram : <a href="https://t.me/MrdurdenEG" target="blank">MrdurdenEG</a>
+
+
+<img align="right" alt="Nerd Guy" width="200" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
 
 <br/>  
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=MrStarkEG&label=Profile%20views&color=0e75b6&style=flat" alt="MrStarkEG" /> </p>
+
+<p align="left"> <a href="https://twitter.com/MrdurdenEG" target="blank"><img src="https://img.shields.io/twitter/follow/MrStarkEG1?logo=twitter&style=for-the-badge" alt="MrDurdenEG" /></a> </p>
 
 
 ## My Skill Set  
