@@ -1,11 +1,11 @@
 ### <div align="center">Hi, I'm Yousef Elnagar ❤️
 </div>  
 
-<div align="center">A passionate embedded systems SW engineer from EGYPT🥰</div>  
+<div align="center">A passionate Software engineer from EGYPT🥰</div>  
 
--  I’m currently learning : **C programming and interfacing**  
+-  I’m currently learning: **C programming and interfacing**  
 
-- A HUGE fan of **Embedded systems**  
+- A HUGE fan of **Embedded systems and web development**  
 
 - You can reach me on Telegram : <a href="https://t.me/MrdurdenEG" target="blank">MrdurdenEG</a>
 
