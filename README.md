@@ -1,66 +1,21 @@
-### <div align="center">Hi, I'm Yousef Elnagar ❤️
-</div>  
+<h2> Hi, I'm Yousef Elnagar! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+<img align='right' src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDN2Ynd5ajBsbm1sMm52OWs2MjRvdmJpY3NnNTZlNzdnZnNxeWN4cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RDZo7znAdn2u7sAcWH/giphy.gif" width="230">
+<p><em>Software Engineer <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
 
-<div align="center">A passionate Software engineer from EGYPT🥰</div>  
+[![Twitter: mrdurdeneg](https://img.shields.io/twitter/follow/ThaiiBraga?style=social)](https://twitter.com/mrdurdeneg)
+[![Linkedin: Yousef Elnagar](https://img.shields.io/badge/-thaianebraga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yousef-elnagar-3b7a682b5/)](https://www.linkedin.com/in/yousef-elnagar-3b7a682b5/)
+[![GitHub mrdurdeneg](https://img.shields.io/github/followers/thaiane?label=follow&style=social)](https://github.com/mrdurdeneg)
 
--  I’m currently learning: **C programming and interfacing**  
 
-- A HUGE fan of **Embedded systems and web development**  
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
-- You can reach me on Telegram : <a href="https://t.me/MrdurdenEG" target="blank">MrdurdenEG</a>
+```javascript
+const Durden = {
+  code: [Javascript, HTML, CSS, c, cpp , some python],
+ challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
+}
+```
 
-<br/>  
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 
-<p align="right"><img align="right" alt="SW" width="155" src="https://media1.tenor.com/m/YHUOSFkcNCcAAAAC/system-engineer-geek.gif"></p>
-
-<p align="left"> <a href="https://twitter.com/MrdurdenEG" target="blank"><img src="https://img.shields.io/twitter/follow/MrdurdenEG?logo=twitter&style=for-the-badge" alt="MrDurdenEG" /></a> </p>
-
-## My Skill Set  
-<table><tr><td valign="top" width="33%">
-
-### skills  
-<div align="center">  
-<a href="https://www.cprogramming.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" /></a>  
-<a href="https://www.cplusplus.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" /></a>  
-<a href="https://www.adobe.com/in/products/photoshop.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/photoshop-plain.svg" alt="Photoshop" height="50" /></a>  
-<a href="https://www.arduino.cc/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/arduino.png" alt="Arduino" height="50" /></a>  
-</div>
-
-</td></tr></table>
-
-<br/>
-
-## You can find me on  
-
-<p align="left">
-<a href="https://twitter.com/MrdurdenEG" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="yousef elnagar on Twitter" height="30" width="40" /></a>
-<a href="https://www.instagram.com/MrdurdenEG" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="MrdurdenEG on Instagram" height="30" width="40" /></a>
-<a href="https://www.facebook.com/yousefnejroo/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="yousef elnagar on Facebook" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/yousef-elnagar-3b7a682b5/" target="blank"><img align="center" src="https://camo.githubusercontent.com/a12f97e0370c6c839fe198521c5536f0fb2ea4ec9005247525f5f3c2f2e91e7e/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f6e706d2f73696d706c652d69636f6e7340332e302e312f69636f6e732f6c696e6b6564696e2e737667" alt="yousef elnagar on linkedin" height="30" width="40" /></a>
-</p>
-
-</div>  
-
-<br/>  
-
-## Github Stats  
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=MrDurdenEG&&style=flat-square" align="center" />
-</div>  
-
-<br/>  
-
-## Recent Blog Posts  
-
-<br/>  
-
-<br/>  
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=MrDurdenEG&&style=flat-square" align="center" />
-</div>  
-
-<br/>  
-
-<br />
-
+---
